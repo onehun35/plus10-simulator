@@ -5,7 +5,9 @@ Simple Python enhancement simulator game.
 ## Features
 - Enhancement system
 - Probability
-- Downgrade system (planned)
+- Downgrade and Broken system
+- Coupon system
+- Gold system
 
 ## Language
 Python
