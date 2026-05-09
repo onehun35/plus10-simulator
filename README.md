@@ -1,2 +1,11 @@
-# plus10-simulator
-Python enhancement simulator game
+# +10 Simulator
+
+Simple Python enhancement simulator game.
+
+## Features
+- Enhancement system
+- Probability
+- Downgrade system (planned)
+
+## Language
+Python
